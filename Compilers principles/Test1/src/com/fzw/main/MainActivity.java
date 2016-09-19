@@ -88,7 +88,7 @@ public class MainActivity {
 		return false;
 	}
 
-	private static boolean containsAora(String sub) {
+private static boolean containsAora(String sub) {
 		if (sub.contains("a") || sub.contains("b") || sub.contains("c")
 				|| sub.contains("d") || sub.contains("e") || sub.contains("f")
 				|| sub.contains("g") || sub.contains("h") || sub.contains("i")
